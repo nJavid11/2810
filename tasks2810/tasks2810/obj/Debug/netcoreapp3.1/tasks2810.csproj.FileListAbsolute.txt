@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\tasks2810\tasks2810\bin\Debug\netcoreapp3.1\tasks2810.exe
+C:\Users\User\source\repos\tasks2810\tasks2810\bin\Debug\netcoreapp3.1\tasks2810.deps.json
+C:\Users\User\source\repos\tasks2810\tasks2810\bin\Debug\netcoreapp3.1\tasks2810.runtimeconfig.json
+C:\Users\User\source\repos\tasks2810\tasks2810\bin\Debug\netcoreapp3.1\tasks2810.runtimeconfig.dev.json
+C:\Users\User\source\repos\tasks2810\tasks2810\bin\Debug\netcoreapp3.1\tasks2810.dll
+C:\Users\User\source\repos\tasks2810\tasks2810\bin\Debug\netcoreapp3.1\tasks2810.pdb
+C:\Users\User\source\repos\tasks2810\tasks2810\obj\Debug\netcoreapp3.1\tasks2810.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\tasks2810\tasks2810\obj\Debug\netcoreapp3.1\tasks2810.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\tasks2810\tasks2810\obj\Debug\netcoreapp3.1\tasks2810.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\tasks2810\tasks2810\obj\Debug\netcoreapp3.1\tasks2810.AssemblyInfo.cs
+C:\Users\User\source\repos\tasks2810\tasks2810\obj\Debug\netcoreapp3.1\tasks2810.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\tasks2810\tasks2810\obj\Debug\netcoreapp3.1\tasks2810.dll
+C:\Users\User\source\repos\tasks2810\tasks2810\obj\Debug\netcoreapp3.1\tasks2810.pdb
+C:\Users\User\source\repos\tasks2810\tasks2810\obj\Debug\netcoreapp3.1\tasks2810.genruntimeconfig.cache
